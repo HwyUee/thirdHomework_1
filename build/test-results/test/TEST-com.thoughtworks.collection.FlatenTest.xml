@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.collection.FlatenTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-04-09T12:19:00" hostname="DESKTOP-Q8J7T3P" time="0.003">
+  <properties/>
+  <testcase name="can_transform_two_dimensional_array_to_one" classname="com.thoughtworks.collection.FlatenTest" time="0.002"/>
+  <testcase name="can_transform_two_dimensional_array_to_one_and_delete_repeated" classname="com.thoughtworks.collection.FlatenTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.collection.ReduceTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2018-04-09T12:19:01" hostname="DESKTOP-Q8J7T3P" time="0.109">
+  <properties/>
+  <testcase name="should_return_index_of_last_even_element" classname="com.thoughtworks.collection.ReduceTest" time="0.005"/>
+  <testcase name="should_return_index_of_first_even_element" classname="com.thoughtworks.collection.ReduceTest" time="0.001"/>
+  <testcase name="should_get_minimum_of_list" classname="com.thoughtworks.collection.ReduceTest" time="0.0"/>
+  <testcase name="should_return_last_even_element" classname="com.thoughtworks.collection.ReduceTest" time="0.0"/>
+  <testcase name="should_get_average_of_list" classname="com.thoughtworks.collection.ReduceTest" time="0.0"/>
+  <testcase name="can_judge_whether_is_equal" classname="com.thoughtworks.collection.ReduceTest" time="0.0"/>
+  <testcase name="should_get_maximum_of_list" classname="com.thoughtworks.collection.ReduceTest" time="0.0"/>
+  <testcase name="should_get_element_in_middle_position_with_order_elements" classname="com.thoughtworks.collection.ReduceTest" time="0.001"/>
+  <testcase name="should_get_element_in_middle_position_in_linkList" classname="com.thoughtworks.collection.ReduceTest" time="0.095"/>
+  <testcase name="should_return_first_even_element" classname="com.thoughtworks.collection.ReduceTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

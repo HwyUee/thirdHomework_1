@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.collection.CollectionOperatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2018-04-09T12:19:00" hostname="DESKTOP-Q8J7T3P" time="0.007">
+  <properties/>
+  <testcase name="should_pop_last_element" classname="com.thoughtworks.collection.CollectionOperatorTest" time="0.002"/>
+  <testcase name="should_pop_common_elements" classname="com.thoughtworks.collection.CollectionOperatorTest" time="0.0"/>
+  <testcase name="should_return_list_by__two_Intervals" classname="com.thoughtworks.collection.CollectionOperatorTest" time="0.0"/>
+  <testcase name="should_pop_even_elements" classname="com.thoughtworks.collection.CollectionOperatorTest" time="0.0"/>
+  <testcase name="should_add_uncommon_elements_to_first_array" classname="com.thoughtworks.collection.CollectionOperatorTest" time="0.001"/>
+  <testcase name="should_return_list_by_Interval" classname="com.thoughtworks.collection.CollectionOperatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

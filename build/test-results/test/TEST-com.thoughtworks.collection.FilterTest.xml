@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.collection.FilterTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-04-09T12:19:00" hostname="DESKTOP-Q8J7T3P" time="0.003">
+  <properties/>
+  <testcase name="should_return_common_elements" classname="com.thoughtworks.collection.FilterTest" time="0.002"/>
+  <testcase name="should_return_different_elements_in_arrayList" classname="com.thoughtworks.collection.FilterTest" time="0.001"/>
+  <testcase name="should_return_even" classname="com.thoughtworks.collection.FilterTest" time="0.0"/>
+  <testcase name="should_return_multiple_of_three" classname="com.thoughtworks.collection.FilterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

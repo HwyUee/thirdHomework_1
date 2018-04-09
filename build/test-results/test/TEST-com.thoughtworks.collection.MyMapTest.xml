@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.collection.MyMapTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-04-09T12:19:01" hostname="DESKTOP-Q8J7T3P" time="0.033">
+  <properties/>
+  <testcase name="should_map_to_letter" classname="com.thoughtworks.collection.MyMapTest" time="0.002"/>
+  <testcase name="should_map_to_triple" classname="com.thoughtworks.collection.MyMapTest" time="0.001"/>
+  <testcase name="should_map_to_letters" classname="com.thoughtworks.collection.MyMapTest" time="0.0"/>
+  <testcase name="should_sort_from_big_to_small" classname="com.thoughtworks.collection.MyMapTest" time="0.002"/>
+  <testcase name="should_sort_from_small_to_big" classname="com.thoughtworks.collection.MyMapTest" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

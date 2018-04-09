@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.collection.AddTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2018-04-09T12:19:00" hostname="DESKTOP-Q8J7T3P" time="0.149">
+  <properties/>
+  <testcase name="should_return_whether_include_special_element" classname="com.thoughtworks.collection.AddTest" time="0.07"/>
+  <testcase name="should_return_unrepeated_elements_from_evens" classname="com.thoughtworks.collection.AddTest" time="0.033"/>
+  <testcase name="should_get_triple_and_add_two" classname="com.thoughtworks.collection.AddTest" time="0.008"/>
+  <testcase name="should_return_average_of_even_index" classname="com.thoughtworks.collection.AddTest" time="0.018"/>
+  <testcase name="should_get_sum_of_evens" classname="com.thoughtworks.collection.AddTest" time="0.0"/>
+  <testcase name="should_get_sum_of_odds" classname="com.thoughtworks.collection.AddTest" time="0.002"/>
+  <testcase name="should_return_median_of_even_index" classname="com.thoughtworks.collection.AddTest" time="0.0"/>
+  <testcase name="should_sort_by_even_and_odd" classname="com.thoughtworks.collection.AddTest" time="0.0"/>
+  <testcase name="should_process_elements" classname="com.thoughtworks.collection.AddTest" time="0.0"/>
+  <testcase name="should_get_sum_of_processed_odd" classname="com.thoughtworks.collection.AddTest" time="0.0"/>
+  <testcase name="should_get_triple_of_odd_and_add_two" classname="com.thoughtworks.collection.AddTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
